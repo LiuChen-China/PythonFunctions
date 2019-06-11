@@ -6,4 +6,4 @@ python3
 关键词:电子琴  
 数量:10  
 重定大小:(64,64)  
-![Alt text](https://github.com/LiuChen-China/PythonFunction/blob/master/BaiduImageDownload/example.png)
+![Alt text](https://github.com/LiuChen-China/PythonFunctions/blob/master/BaiduImageDownload/example.png)
